@@ -1,0 +1,7 @@
+{
+    "poppins": {
+        "500": "C:\\xampp\\htdocs\\GeradorPDF\\vendor\\dompdf\\dompdf\/lib\/fonts\/poppins_500_6a6f5e017da7e062546fd806ab3b249c",
+        "bold": "C:\\xampp\\htdocs\\GeradorPDF\\vendor\\dompdf\\dompdf\/lib\/fonts\/poppins_bold_2d1c4b360c3ac297e98fc2cfd808a2cc",
+        "900": "poppins_900_b9e01d75bf95631c5ecf3bcf2a96e6b3"
+    }
+}
